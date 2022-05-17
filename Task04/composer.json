@@ -1,0 +1,17 @@
+{
+    "name": "nchulkina/task04",
+    "autoload": {
+        "psr-4": {
+            "Nchulkina\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php",
+            "src/compareStrings.php"
+        ]
+    },
+    "authors": [{
+        "name": "Anastasia-Chulkina",
+        "email": "nastya.vladimirovna.01@bk.ru"
+    }],
+    "require": {}
+}
